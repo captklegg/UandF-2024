@@ -2654,7 +2654,7 @@ input, select, textarea {
 			}
 			
 			.image.mike img {
-				width: 75%;
+				width: 100%;
 			}
 
 		@media screen and (max-width: 736px) {
